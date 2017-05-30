@@ -6,7 +6,7 @@ import java.util.List;
  * Created by syl on 2017/5/29.
  */
 
-public class LastStories {
+public class LatestStories {
 
     /**
      * date : 20140523
